@@ -1,4 +1,4 @@
-👁️ Diabetic Retinopathy Classification (PR-0019)
+👁️Retinopathy Classification (PR-0019)
 📌 Project Overview
 
 This project focuses on classifying retinal fundus images to identify patterns associated with diabetic retinopathy using deep learning and computer vision techniques.
